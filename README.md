@@ -1,7 +1,7 @@
 # Food-Order-Chatbot
 
 
-Food order chatbot was created from TZG Team with python programming language and apply NLP and regression technique for training my chatbot. 
+Food order chatbot was created from TZG Team with python programming language and apply NLP (Natural Learning Process) and re (regular expression) technique for training my chatbot. 
 Run my program will make some inconvenience since I didn't upload and saved my related files to database and I am apologized about this. 
 
 I have uploaded 9 JPG file (menu images) , 1 excel file (foodlist), 1 PNG file (flowchart) and 4 python file.
